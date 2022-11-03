@@ -1,5 +1,5 @@
 {
-  "name": "有子列的表格增加",
+  "name": "editableProTable",
   "description": "undefined",
   "main": "index.tsx",
   "dependencies": {
